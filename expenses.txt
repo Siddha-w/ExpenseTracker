@@ -1,0 +1,2 @@
+Dinner,Food,250
+shopping,cloths,500
